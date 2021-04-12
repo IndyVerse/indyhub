@@ -1,7 +1,7 @@
 {
   "name": "hublet-fission",
   "version": "1.0.0",
-  "description": "HubLet with Fission WebNative File System",
+  "description": "End-to-end first slice for IndyWiki supported by IndieHub built with Fission WebNative File System & OrbitDB ",
   "main": "index.html",
   "scripts": {
     "test": "jest --watch",
@@ -22,6 +22,7 @@
     "AppRun Site",
     "Fission",
     "WebNative SDK",
+    "OrbitDB",
     "TrailMarks",
     "TrailHub",
     "HubLet"
@@ -33,9 +34,9 @@
     "url": "git+https://gitlab.com/trailhub/hublet-fission.git"
   },
   "bugs": {
-    "url": "https://github.com/apprunjs/apprun-starter/issues"
+    "url": "https://github.com/IndyVerse/indiehub/issues"
   },
-  "homepage": "https://gitlab.com/trailhub/hublet-fission",
+  "homepage": "https://github.com/IndyVerse/indiehub",
   "devDependencies": {
     "apprun-site": "^0.7.0",
     "css-loader": "^3.6.0",
@@ -54,6 +55,7 @@
   },
   "dependencies": {
     "apprun": "^2.25.1",
+    "crypto-js": "^4.0.0",
     "electron-webrtc": "^0.3.0",
     "ipfs": "^0.52.3",
     "material-components-web": "^5.1.0",
