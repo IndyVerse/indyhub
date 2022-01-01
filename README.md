@@ -3,7 +3,7 @@ Be your own(ed) Web3Native Inter Personal Hub at the edges of your own trusted n
 
 
 ![](https://ipfs.runfission.com/ipfs/bafybeieyorz6s6t4mwg3amg4whad4qpso47h47fssdvkcs4jqwvv7cq6e4/p/Icons/IndieHub.png)
-![](https://pbs.twimg.com/profile_images/1418084567257391104/VVLjl6rU_400x400.png)
+![](https://bafybeibqyku2ljri7mqnhrhwea5qqq6r27vvpnkzfzbhxjpbgpan4kwccm.ipfs.dweb.link/icon%20-%20IndyHub.png)
 
 
 
